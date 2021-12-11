@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1027610722598",
+    "firebase_url": "https://quiz-hunt-8f9bd-default-rtdb.firebaseio.com",
+    "project_id": "quiz-hunt-8f9bd",
+    "storage_bucket": "quiz-hunt-8f9bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027610722598:android:beef1643b68c4fdcd701e7",
+        "android_client_info": {
+          "package_name": "com.sk.quizhunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027610722598-532n4abv79fe68rdj046s07uvnv7a4om.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sk.quizhunt",
+            "certificate_hash": "95f10eef93972cf90698ff82380c5d5a862883ea"
+          }
+        },
+        {
+          "client_id": "1027610722598-d0poi6qphnnq51j0g0avih5bl9k6i377.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL_4Fz0_gE2BQF87aA04MNUJ1ot8UBwnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027610722598-d0poi6qphnnq51j0g0avih5bl9k6i377.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
